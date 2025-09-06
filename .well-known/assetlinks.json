@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.calorietools.debug",
+    "sha256_cert_fingerprints": [
+      "B5:92:A3:DB:13:CE:7C:E6:68:1B:FA:17:29:4B:DA:BE:DF:A4:4A:C0:DE:91:18:A6:78:5E:3F:D4:00:BA:2C:CE"
+    ]
+  }
+}]
